@@ -1,1 +1,1 @@
-We use colab to do the simulation, so the filepath should be set by yourself. 
+We use colab to do the simulation, and the filepath might need to modify by yourself. 
